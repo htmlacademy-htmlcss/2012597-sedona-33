@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Андрей Седов](https://up.htmlacademy.ru/htmlcss/33/user/2012597).
-* Наставник: `Максим Корелин`.
+* Наставник: `Максим Корелин`https://htmlacademy.ru/profile/maxzbest.
 
 ---
 
